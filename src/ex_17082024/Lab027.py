@@ -8,3 +8,6 @@ complex_number = 1+7j
 my_list = ["Pramod","amit", "lucky"]
 
 my_tuple = ("bread", "apple", "milk")
+
+print(my_list)
+print(my_tuple)

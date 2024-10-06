@@ -1,5 +1,8 @@
 def print_arguments(*args):
-    print(args[0])
+    for i in args:
+        print(i)
+
+    # print(args[0])
 
 print_arguments("Prasha","Raj","Siri")
 print_arguments("Raj","Siri")
