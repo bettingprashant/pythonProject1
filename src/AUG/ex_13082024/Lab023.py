@@ -5,7 +5,7 @@
 
 
 num = 90
-print("This is the number you are working with "f"{num}")
+print(f"This is the number you are working with {num}")
 
 table = 9
 print(f"{table}*1={table}")

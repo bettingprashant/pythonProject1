@@ -17,7 +17,7 @@ import os
 # os.rmdir('new_directory')
 # os.rmdir('parent')
 # os.rename('old_name.txt','new_name.txt')
-full_path = os.path.join('C:\\Users\\91771\\OneDrive - SmartCare Analytica AB\\Desktop\\Python Automtion\\Python Selenium\\pythonProject1\\src\\Sept\\ex_10_08_2024','file.txt')
+full_path = os.path.join('/src/Sept/ex_10_09_2024', 'file.txt')
 
 print(full_path)
 
