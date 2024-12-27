@@ -1,6 +1,6 @@
 #Ternary Operator
 
-# if my age > 13 the i can watch reels
+# if my age > 13 then i can watch reels
 #     else i can;t watch
 
 my_age = int(input("Enter your age"))
@@ -11,4 +11,4 @@ user_age = int(input("Enter ur age"))
 if user_age > 18:
     print("Go Goa")
 else:
-    print(("Can;t go, Stay Home"))
+    print("Can't go, Stay Home")
